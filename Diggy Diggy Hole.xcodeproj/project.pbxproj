@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C8B83741DFFC2C8006A3F64 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C8B83721DFFC2C8006A3F64 /* MainViewController.swift */; };
+		8C8B83751DFFC2C8006A3F64 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C8B83731DFFC2C8006A3F64 /* MainViewController.xib */; };
 		F662C7C11DFFAA9300985E6F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F662C7C01DFFAA9300985E6F /* AppDelegate.swift */; };
 		F662C7C31DFFAA9300985E6F /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = F662C7C21DFFAA9300985E6F /* GameScene.sks */; };
 		F662C7C51DFFAA9300985E6F /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = F662C7C41DFFAA9300985E6F /* Actions.sks */; };
@@ -37,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8C8B83721DFFC2C8006A3F64 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		8C8B83731DFFC2C8006A3F64 /* MainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
 		F662C7BD1DFFAA9300985E6F /* Diggy Diggy Hole.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Diggy Diggy Hole.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F662C7C01DFFAA9300985E6F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F662C7C21DFFAA9300985E6F /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -112,6 +116,8 @@
 				F662C7CD1DFFAA9300985E6F /* Assets.xcassets */,
 				F662C7CF1DFFAA9300985E6F /* LaunchScreen.storyboard */,
 				F662C7D21DFFAA9300985E6F /* Info.plist */,
+				8C8B83721DFFC2C8006A3F64 /* MainViewController.swift */,
+				8C8B83731DFFC2C8006A3F64 /* MainViewController.xib */,
 			);
 			path = "Diggy Diggy Hole";
 			sourceTree = "<group>";
@@ -243,6 +249,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F662C7CC1DFFAA9300985E6F /* Main.storyboard in Resources */,
+				8C8B83751DFFC2C8006A3F64 /* MainViewController.xib in Resources */,
 				F662C7C31DFFAA9300985E6F /* GameScene.sks in Resources */,
 				F662C7CE1DFFAA9300985E6F /* Assets.xcassets in Resources */,
 				F662C7D11DFFAA9300985E6F /* LaunchScreen.storyboard in Resources */,
@@ -274,6 +281,7 @@
 				F662C7C71DFFAA9300985E6F /* GameScene.swift in Sources */,
 				F662C7C91DFFAA9300985E6F /* GameViewController.swift in Sources */,
 				F662C7C11DFFAA9300985E6F /* AppDelegate.swift in Sources */,
+				8C8B83741DFFC2C8006A3F64 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
