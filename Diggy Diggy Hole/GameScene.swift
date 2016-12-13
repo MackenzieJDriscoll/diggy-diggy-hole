@@ -1,6 +1,6 @@
 //
 //  GameScene.swift
-//  Diggy Diggy Hole
+//  Diggy Diggy Hole Game
 //
 //  Created by Chase Driscoll on 12/12/16.
 //  Copyright © 2016 Dark Roast Studios. All rights reserved.
