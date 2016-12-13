@@ -202,6 +202,7 @@
 				TargetAttributes = {
 					F662C7BC1DFFAA9300985E6F = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = W4TS7E96Q9;
 						ProvisioningStyle = Automatic;
 					};
 					F662C7D61DFFAA9300985E6F = {
@@ -424,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = W4TS7E96Q9;
 				INFOPLIST_FILE = "Diggy Diggy Hole/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -437,6 +439,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = W4TS7E96Q9;
 				INFOPLIST_FILE = "Diggy Diggy Hole/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -519,6 +522,7 @@
 				F662C7ED1DFFAA9300985E6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F662C7EE1DFFAA9300985E6F /* Build configuration list for PBXNativeTarget "Diggy Diggy HoleTests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +531,7 @@
 				F662C7F01DFFAA9300985E6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F662C7F11DFFAA9300985E6F /* Build configuration list for PBXNativeTarget "Diggy Diggy HoleUITests" */ = {
 			isa = XCConfigurationList;
@@ -535,6 +540,7 @@
 				F662C7F31DFFAA9300985E6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
