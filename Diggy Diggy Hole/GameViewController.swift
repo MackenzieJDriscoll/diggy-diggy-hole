@@ -15,10 +15,17 @@ class GameViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
     }
+    //Constant Sprite Nodes
     
-    var avatar:String = "nil";
-    var dirtBlock:CGImage
-    var grassBlock:CGImage
+    let character = SKSpriteNode(imageNamed: "character.png")
+    let dirtBlock = SKSpriteNode(imageNamed: "dirtBlock.png")
+    let grassBlock = SKSpriteNode(imageNamed: "grassBlock.png")
+    
+    //Constant Menu Buttons
+    let playButton = UIButton(frame: CGRect(x:0, y:0, width: 0, height:0) )
+    let leaderBoard = UIButton(frame: CGRect(x:0, y:0, width: 0, height:0) )
+    let characterSelection = UIButton(frame: CGRect(x:0, y:0, width: 0, height:0) )
+    
     
     
 
